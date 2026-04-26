@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying paper, please cite it as below."
+title: "TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only"
+authors:
+  - family-names: "Liu"
+    given-names: "Yilun"
+  - family-names: "Qiu"
+    given-names: "Ruihong"
+  - family-names: "Huang"
+    given-names: "Zi"
+license: MIT
+repository-code: "https://github.com/Allen-UQ/trn-r1-zero"
+preferred-citation:
+  type: conference-paper
+  title: "TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only"
+  authors:
+    - family-names: "Liu"
+      given-names: "Yilun"
+    - family-names: "Qiu"
+      given-names: "Ruihong"
+    - family-names: "Huang"
+      given-names: "Zi"
+  collection-title: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
+  year: 2026
